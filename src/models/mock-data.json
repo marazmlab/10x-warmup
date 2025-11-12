@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "firstName": "Anna",
+    "lastName": "Kowalska",
+    "age": 28
+  },
+  {
+    "id": 2,
+    "firstName": "Jan",
+    "lastName": "Nowak",
+    "age": 35
+  },
+  {
+    "id": 3,
+    "firstName": "Maria",
+    "lastName": "Wiśniewska",
+    "age": 42
+  },
+  {
+    "id": 4,
+    "firstName": "Piotr",
+    "lastName": "Wójcik",
+    "age": 31
+  },
+  {
+    "id": 5,
+    "firstName": "Katarzyna",
+    "lastName": "Kamińska",
+    "age": 26
+  },
+  {
+    "id": 6,
+    "firstName": "Tomasz",
+    "lastName": "Lewandowski",
+    "age": 39
+  },
+  {
+    "id": 7,
+    "firstName": "Magdalena",
+    "lastName": "Zielińska",
+    "age": 33
+  },
+  {
+    "id": 8,
+    "firstName": "Michał",
+    "lastName": "Szymański",
+    "age": 45
+  },
+  {
+    "id": 9,
+    "firstName": "Aleksandra",
+    "lastName": "Dąbrowska",
+    "age": 29
+  },
+  {
+    "id": 10,
+    "firstName": "Krzysztof",
+    "lastName": "Kozłowski",
+    "age": 37
+  }
+]
+
